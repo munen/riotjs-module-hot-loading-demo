@@ -24,3 +24,10 @@ RiotJS application using module hot-loading. I never had to go back to
 the browser and hit 'reload'. To be able to do this, I used the [RiotJS-Loader](https://github.com/esnunes/riotjs-loader).
 
 For a video demo, please visit [200ok.ch/riotjs-module-hot-loading-demo/index.html](http://200ok.ch/riotjs-module-hot-loading-demo/index.html).
+
+## Starting the app
+
+```
+npm install
+./node_modules/.bin/webpack-dev-server --inline --hot
+```
