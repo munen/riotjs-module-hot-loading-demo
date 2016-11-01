@@ -23,4 +23,4 @@ This is a demo showing you how to incrementally build a super simple
 RiotJS application using module hot-loading. I never had to go back to
 the browser and hit 'reload'. To be able to do this, I used the [RiotJS-Loader](https://github.com/esnunes/riotjs-loader).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y9cGM71izVs" frameborder="0" allowfullscreen></iframe>
+For a video demo, please visit [200ok.ch/riotjs-module-hot-loading-demo/index.html](http://200ok.ch/riotjs-module-hot-loading-demo/index.html).
