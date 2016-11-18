@@ -29,5 +29,10 @@ For a video demo, please visit [200ok.ch/riotjs-module-hot-loading-demo/index.ht
 
 ```
 npm install
-./node_modules/.bin/webpack-dev-server --inline --hot
+./node_modules/.bin/webpack-dev-server --inline --hot --host 127.0.0.1
 ```
+
+Go to `http://127.0.0.1:8080/` and start editing your tag files at the
+same time.
+
+Enjoy!
